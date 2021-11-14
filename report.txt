@@ -1,0 +1,10 @@
+Statistics report on C:\Users\eli7\Desktop\tryOut\anna_karenina.txt file:
+
+Number of lines in file: 8
+Number of words in file: 129
+Number of unique words in file: 97
+Average length of sentence in file: 18.428571428571427
+    The longest sentence in file: 38
+Most repeated word in file: and
+    Frequency: 11
+Longest sequence without 'k': 62
